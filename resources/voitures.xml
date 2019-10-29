@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><voitures>
+
+	<voiture identificateur="10">
+		<marque>Mercedes Benz c63</marque>
+		<vitesse>300</vitesse>
+		<consommation>16.5</consommation>
+	</voiture>
+	<voiture identificateur="11">
+		<marque>fiat punto</marque>
+		<vitesse>170</vitesse>
+		<consommation>6</consommation>
+	</voiture>
+	<voiture identificateur="12">
+		<marque>dacia logan</marque>
+		<vitesse>163</vitesse>
+		<consommation>8.5</consommation>
+	</voiture>
+	<voiture identificateur="13">
+		<marque>toyota yaris</marque>
+		<vitesse>190</vitesse>
+		<consommation>5</consommation>
+	</voiture>
+	<voiture identificateur="14">
+		<marque>toyota corolla</marque>
+		<vitesse>195</vitesse>
+		<consommation>6</consommation>
+	</voiture>
+
+	<voiture identificateur="15">
+		<marque>mazda mx-5</marque>
+		<vitesse>220</vitesse>
+		<consommation>10.5</consommation>
+	</voiture>
+		<voiture identificateur="16">
+		<marque>mazda mx-6</marque>
+		<vitesse>220</vitesse>
+		<consommation>10.5</consommation>
+	</voiture>
+	<voiture identificateur="20">
+		<marque>mazda bba</marque>
+		<vitesse>220</vitesse>
+		<consommation>10.5</consommation>
+	</voiture>
+	
+<voiture identificateur="21">
+<marque>bmw</marque>
+<vitesse>500</vitesse>
+<consommation>6.7</consommation>
+</voiture>
+
+<voiture identificateur="22">
+<marque>bmwBba</marque>
+<vitesse>342</vitesse>
+<consommation>20.0</consommation>
+</voiture>
+</voitures>
