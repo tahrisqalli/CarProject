@@ -4,6 +4,7 @@ import bba.cars.annotations.Field;
 
 public class voiture {
 	//it has to be changed by english names!!
+	//it has to be changed by english names2!!
 	@Field(label="identificateur")
 	int id;
 	
